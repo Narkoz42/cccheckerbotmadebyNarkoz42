@@ -1,7 +1,7 @@
 <?php
 
 ////////////////=============[@Narkoz42 Demo CC Checker BOT]=============////////////////
-$botToken = "5907837775:AAEMD_HlGcDuesI8Z8mWdCHtl3O3Oqbs8yw"; // Enter ur bot token
+$botToken = "6233259507:AAGbPlnz3-o5v2u4ggOCqLkGroCAyNJNIto"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
